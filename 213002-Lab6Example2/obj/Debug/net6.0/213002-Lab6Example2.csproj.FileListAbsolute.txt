@@ -1,0 +1,14 @@
+C:\Users\KH Faisal\source\repos\213002-Lab6Example2\bin\Debug\net6.0\213002-Lab6Example2.exe
+C:\Users\KH Faisal\source\repos\213002-Lab6Example2\bin\Debug\net6.0\213002-Lab6Example2.deps.json
+C:\Users\KH Faisal\source\repos\213002-Lab6Example2\bin\Debug\net6.0\213002-Lab6Example2.runtimeconfig.json
+C:\Users\KH Faisal\source\repos\213002-Lab6Example2\bin\Debug\net6.0\213002-Lab6Example2.dll
+C:\Users\KH Faisal\source\repos\213002-Lab6Example2\bin\Debug\net6.0\213002-Lab6Example2.pdb
+C:\Users\KH Faisal\source\repos\213002-Lab6Example2\obj\Debug\net6.0\213002-Lab6Example2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KH Faisal\source\repos\213002-Lab6Example2\obj\Debug\net6.0\213002-Lab6Example2.AssemblyInfoInputs.cache
+C:\Users\KH Faisal\source\repos\213002-Lab6Example2\obj\Debug\net6.0\213002-Lab6Example2.AssemblyInfo.cs
+C:\Users\KH Faisal\source\repos\213002-Lab6Example2\obj\Debug\net6.0\213002-Lab6Example2.csproj.CoreCompileInputs.cache
+C:\Users\KH Faisal\source\repos\213002-Lab6Example2\obj\Debug\net6.0\213002-Lab6Example2.dll
+C:\Users\KH Faisal\source\repos\213002-Lab6Example2\obj\Debug\net6.0\refint\213002-Lab6Example2.dll
+C:\Users\KH Faisal\source\repos\213002-Lab6Example2\obj\Debug\net6.0\213002-Lab6Example2.pdb
+C:\Users\KH Faisal\source\repos\213002-Lab6Example2\obj\Debug\net6.0\213002-Lab6Example2.genruntimeconfig.cache
+C:\Users\KH Faisal\source\repos\213002-Lab6Example2\obj\Debug\net6.0\ref\213002-Lab6Example2.dll

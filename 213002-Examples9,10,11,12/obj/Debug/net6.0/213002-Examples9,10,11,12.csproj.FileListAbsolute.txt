@@ -1,0 +1,14 @@
+C:\Users\KH Faisal\source\repos\213002-Examples9,10,11,12\bin\Debug\net6.0\213002-Examples9,10,11,12.exe
+C:\Users\KH Faisal\source\repos\213002-Examples9,10,11,12\bin\Debug\net6.0\213002-Examples9,10,11,12.deps.json
+C:\Users\KH Faisal\source\repos\213002-Examples9,10,11,12\bin\Debug\net6.0\213002-Examples9,10,11,12.runtimeconfig.json
+C:\Users\KH Faisal\source\repos\213002-Examples9,10,11,12\bin\Debug\net6.0\213002-Examples9,10,11,12.dll
+C:\Users\KH Faisal\source\repos\213002-Examples9,10,11,12\bin\Debug\net6.0\213002-Examples9,10,11,12.pdb
+C:\Users\KH Faisal\source\repos\213002-Examples9,10,11,12\obj\Debug\net6.0\213002-Examples9,10,11,12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KH Faisal\source\repos\213002-Examples9,10,11,12\obj\Debug\net6.0\213002-Examples9,10,11,12.AssemblyInfoInputs.cache
+C:\Users\KH Faisal\source\repos\213002-Examples9,10,11,12\obj\Debug\net6.0\213002-Examples9,10,11,12.AssemblyInfo.cs
+C:\Users\KH Faisal\source\repos\213002-Examples9,10,11,12\obj\Debug\net6.0\213002-Examples9,10,11,12.csproj.CoreCompileInputs.cache
+C:\Users\KH Faisal\source\repos\213002-Examples9,10,11,12\obj\Debug\net6.0\213002-Examples9,10,11,12.dll
+C:\Users\KH Faisal\source\repos\213002-Examples9,10,11,12\obj\Debug\net6.0\refint\213002-Examples9,10,11,12.dll
+C:\Users\KH Faisal\source\repos\213002-Examples9,10,11,12\obj\Debug\net6.0\213002-Examples9,10,11,12.pdb
+C:\Users\KH Faisal\source\repos\213002-Examples9,10,11,12\obj\Debug\net6.0\213002-Examples9,10,11,12.genruntimeconfig.cache
+C:\Users\KH Faisal\source\repos\213002-Examples9,10,11,12\obj\Debug\net6.0\ref\213002-Examples9,10,11,12.dll
